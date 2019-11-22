@@ -1,3 +1,5 @@
 i am your father
 ÎÒÊÇÄãµù
 iamyourfather
+²âÊÔSSH
+git@github.com:strangePix/git-demo.git
